@@ -1,16 +1,14 @@
 # HealthCare Advisor
 HealthCare Advisor is a Streamlit application that serves as a healthcare advisor and provides users with tools like a BMI calculator and a medical query assistant. The application uses Google's Generative AI for health-related query responses, providing helpful insights but not a substitute for professional medical advice.
 
-* BMI Calculator: Enter weight and height to calculate Body Mass Index (BMI) and interpret it based on standard BMI categories.
-* Medical Query Assistant: Ask health-related questions to a virtual advisor powered by Google Generative AI's Gemini model.
-Disclaimer: Guidance on the app's limitations, advising users to consult healthcare professionals.
-Setup
-Clone the repository:
-
-bash
-Copy code
+* **BMI Calculator:** Enter weight and height to calculate Body Mass Index (BMI) and interpret it based on standard BMI categories.
+* **Medical Query Assistant:** Ask health-related questions to a virtual advisor powered by Google Generative AI's Gemini model.
+* **Disclaimer:** Guidance on the app's limitations, advising users to consult healthcare professionals.
+## Setup
+1. Clone the repository:
 git clone <repository-url>
 cd healthcare-advisor
+
 Install required packages:
 
 bash
